@@ -1,1 +1,1 @@
-const nextConfig = { experimental: { typedRoutes: true } }; export default nextConfig;
+const nextConfig={}; export default nextConfig;
